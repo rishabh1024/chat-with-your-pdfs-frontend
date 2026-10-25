@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  min-width: 320px;
+}
+
+.home-page {
+  --page-bg: #c4ebff;
+  --surface-bg: #a8d4ef;
+  --panel-bg: #dff3ff;
+  --panel-border: #8fc0de;
+  --text-primary: #1e293b;
+  --text-muted: #334155;
+  --accent: ;
+
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
+  overflow: hidden;
+  background-color: var(--page-bg);
+  color: var(--text-primary);
+}
