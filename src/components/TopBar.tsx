@@ -1,5 +1,3 @@
-import pdfLogo from '@/assets/logo.svg'
-import '@/styles/TopBar.css'
 import { useState } from 'react'
 import { useAuth } from '@/context/AuthContext'
 
