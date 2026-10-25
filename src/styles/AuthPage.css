@@ -4,7 +4,7 @@
   justify-content: center;
   min-height: 100vh;
   padding: 24px;
-  background: #f8fafc;
+  background: #F5F4ED;
   color: #1e293b;
   font-family: Arial, sans-serif;
 }
@@ -13,8 +13,8 @@
   width: 100%;
   max-width: 360px;
   padding: 26px 25px 24px;
-  background: #ffffff;
-  border: 1px solid #e2e8f0;
+  background: #E8EBDD;
+  border: 1px solid #B9C3A4;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgb(0 0 0 / 4%);
 }
@@ -43,13 +43,13 @@
 }
 
 .auth-brand h1 span {
-  color: #ef4444;
+  color: #3F5B4A;
 }
 
 .auth-subtitle {
   margin: 0 0 20px;
   text-align: center;
-  color: #64748b;
+  color: #334155;
   font-size: 12px;
 }
 
@@ -58,7 +58,7 @@
   gap: 4px;
   margin-bottom: 20px;
   padding: 3px;
-  border: 1px solid #e2e8f0;
+  border: 1px solid #B9C3A4;
   border-radius: 7px;
 }
 
@@ -68,14 +68,14 @@
   border: none;
   border-radius: 5px;
   background: transparent;
-  color: #475569;
+  color: #334155;
   font-size: 12px;
   cursor: pointer;
 }
 
 .auth-tabs button.active {
-  background: #ef4444;
-  color: #ffffff;
+  background: #3F5B4A;
+  color: #FFFEF7;
 }
 
 .auth-form {
@@ -99,30 +99,30 @@
   width: 100%;
   box-sizing: border-box;
   padding: 8px 10px;
-  border: 1px solid #cbd5e1;
+  border: 1px solid #B9C3A4;
   border-radius: 6px;
-  background: #ffffff;
+  background: #FFFEF7;
   color: #1e293b;
   font: inherit;
   font-size: 12px;
 }
 
 .form-field input:focus {
-  outline: 2px solid #fecaca;
-  border-color: #ef4444;
+  outline: 2px solid #E6F4ED;
+  border-color: #3F5B4A;
 }
 
 .auth-submit-button {
   padding: 10px;
   border: none;
   border-radius: 6px;
-  background: #ef4444;
-  color: #ffffff;
+  background: #3F5B4A;
+  color: #FFFEF7;
   font-size: 12px;
   font-weight: 600;
   cursor: pointer;
 }
 
 .auth-submit-button:hover {
-  background: #dc2626;
+  background: #262c29;
 }

@@ -5,7 +5,7 @@
   padding: 16px;
   border: 1px solid #b7d8ea;
   border-radius: 16px;
-  background: #b3d8ef;
+  background: #E6F4ED;
 }
 
 .message-composer textarea {
@@ -14,7 +14,7 @@
   padding: 12px;
   border: 2px solid #919ab6;
   border-radius: 8px;
-  background: #c1e0e6;
+  background: #E6F4ED;
   color: #262424;
   font: inherit;
   resize: none;
@@ -29,7 +29,7 @@
   padding: 12px 18px;
   border: 1px solid transparent;
   border-radius: 8px;
-  background: #d93636;
+  background: #262c29;
   color: #ffffff;
   font: inherit;
   cursor: pointer;

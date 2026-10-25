@@ -8,7 +8,7 @@
   height: 100vh;
   flex-shrink: 0;
   box-sizing: border-box;
-  background-color: var(--surface-bg, #a8d4ef);
+  background-color: var(--surface-bg, #B9C3A4);
   color: var(--text-primary, #1e293b);
   border-right: 1px solid var(--panel-border, #8fc0de);
   z-index: 1000;
@@ -19,7 +19,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 16px;
-  border-bottom: 1px solid var(--panel-border, #8fc0de);
+  border-bottom: 1px solid var(--panel-border, #B9C3A4);
 }
 
 .sidebar-brand-logo {
